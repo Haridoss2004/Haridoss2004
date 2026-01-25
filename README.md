@@ -12,7 +12,7 @@
 
 ## 🚀 Featured Project
 ### 🖥️ ShaDos — Custom Operating System
-A 32-bit x86 OS kernel built from scratch with VGA screen driver and GRUB boot.
+A 64-bit x86 OS kernel built from scratch with VGA screen driver and GRUB boot.
 
 🔗 https://github.com/Haridoss2004/ShaDos
 
