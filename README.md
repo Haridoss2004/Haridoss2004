@@ -6,7 +6,7 @@
 <a href="https://haridoss2004.github.io/developerFolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 <a href="mailto:jacobisraelemmanuel@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=76B900&center=true&vCenter=true&width=650&lines=Final-Year+EEE+Engineer+%40+TCE;Register-Level+Firmware+%2B+AI+Systems;ESP32+%7C+STM32+%7C+Jetson+%7C+RP2040;Bridging+Hardware+and+Intelligence" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=76B900&center=true&vCenter=true&width=650&lines=Electronics+Engineer+%40+TCE;Register-Level+Firmware+%2B+AI+Systems;ESP32+%7C+STM32+%7C+Jetson+%7C+RP2040;Bridging+Hardware+and+Intelligence" />
 
 </div>
 
